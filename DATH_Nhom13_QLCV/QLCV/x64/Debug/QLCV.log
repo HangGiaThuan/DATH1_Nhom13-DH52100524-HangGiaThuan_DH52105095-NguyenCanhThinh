@@ -1,0 +1,7 @@
+﻿  QuanLyLichLam_Menusettings.cpp
+  QuanLyLichLam_main.cpp
+D:\source\repos\DATH_Nhom13_QLCV\QLCV\QuanLyLichLam_main.cpp(8,10): warning C4101: 'ngayKetThuc': unreferenced local variable
+D:\source\repos\DATH_Nhom13_QLCV\QLCV\QuanLyLichLam_main.cpp(9,13): warning C4101: 'trangthai': unreferenced local variable
+D:\source\repos\DATH_Nhom13_QLCV\QLCV\QuanLyLichLam_main.cpp(9,9): warning C4101: 'id': unreferenced local variable
+  Generating Code...
+  QLCV.vcxproj -> D:\source\repos\DATH_Nhom13_QLCV\x64\Debug\QLCV.exe
